@@ -70,22 +70,26 @@ User-defined inputs
 ▶️ How to Run
 Step 1: Make Scripts Executable
 chmod +x script*.sh
+
 Step 2: Execute Scripts
 ./script1.sh
 ./script2.sh git
 ./script3.sh
 sudo ./script4.sh /var/log/auth.log fail
 ./script5.sh
+
 ⚙️ Requirements
 Operating System: Linux (Ubuntu recommended)
 Bash Shell
 Git installed on the system
+
 🎯 Learning Outcomes
 Understanding of open-source tools and philosophy
 Hands-on experience with shell scripting
 Knowledge of system auditing techniques
 Familiarity with Linux file systems and permissions
 Log analysis and debugging skills
+
 📌 Conclusion
 
 This project demonstrates how shell scripting can be effectively used to audit and analyze open-source systems. It provides practical exposure to real-world system administration and open-source workflows.
