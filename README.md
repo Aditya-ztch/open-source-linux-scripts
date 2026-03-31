@@ -1,7 +1,11 @@
 📦 Open Source Audit Project
+
 👨‍🎓 Student Details
+
 Name: Aditya Raj Singh
+
 Course: Open Source Software
+
 🧩 Project Overview
 
 This project is designed to explore and analyze open-source systems using shell scripting. It demonstrates practical interaction with Linux environments and auditing tools focused on system information, software inspection, permissions, and log analysis.
